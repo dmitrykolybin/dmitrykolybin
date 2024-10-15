@@ -5,7 +5,6 @@
 * I am beginner Java developer :computer:
 * I am studying in [BMSTU](https://bmstu.ru/) (Bauman Moscow State Technical University) 🏛️
 * I have started learning Java with [Job4j](https://job4j.ru/) :coffee:
-* My Java expirience is 4 months 🕰️
 
 -----------
 <b>Core technologies:</b>
