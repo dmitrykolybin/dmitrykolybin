@@ -7,5 +7,3 @@
 * I have started learning Java with [Job4j](https://job4j.ru/) :coffee:
 
 -----------
-<b>Core technologies:</b>
-> ![Java](https://img.shields.io/badge/Java-17.0.11-orange)
