@@ -2,6 +2,6 @@
 
 #### About me:
 
-* I am Java developer :coffee: :leaves:
+* I am Java developer :coffee:
 * Studying in [BMSTU](https://bmstu.ru/) (Bauman Moscow State Technical University) :books:
 -----------
